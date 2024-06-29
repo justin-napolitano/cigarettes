@@ -17,7 +17,7 @@ I went out with someone I met recently at a cafe.  A friend of a friend.  We had
 
 ## Anxiety
 
-I felt anxious.  Not necessarily like uncomfortable in my skin... but the kind of anxious where I was question my actions.  Like why was I taking someone out? Like what are my intentions? What is the point? 
+I felt anxious.  Not necessarily like uncomfortable in my skin... but the kind of anxious where I was questioning my actions.  Like why was I taking someone out? Like what are my intentions? What is the point? 
 
 ## Fun?
 
@@ -31,7 +31,7 @@ This is behavior I thought I was over.. I think I am over... but I do on these r
 
 ## The Bar Scene
 
-The crowd at this bar tonight was very attracive, but also very odd. I felt like we were doing this little tango... We were all sizing up one another. I mean this is a bar so we are looking for partners, but what kind of partner can I expect to meet at a bar?
+The crowd at this bar tonight was very attractive, but also very odd. I felt like we were doing this little tango... We were all sizing up one another. I mean this is a bar so we are looking for partners, but what kind of partner can I expect to meet at a bar?
 
 ## Treating my Body with Disrespect
 
@@ -39,7 +39,7 @@ I had a drink and maybe a half.. They were okay.. but I know these are not good 
 
 ## Rationalizing Bad Behavior
 
-I tell myslef... oh it is just one cigarette. It is just one drink... and maybe that is kind of true.. but just practicing that type of behavior imprints upon the body that is okay to drink.. to smoke.. to do these ridiculous things. 
+I tell myself... oh it is just one cigarette. It is just one drink... and maybe that is kind of true.. but just practicing that type of behavior imprints upon the body that is okay to drink.. to smoke.. to do these ridiculous things. 
 
 ## Do it again? 
 
