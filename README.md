@@ -1,6 +1,6 @@
 # cigarettes
 
-A personal reflective journal repository capturing moments and thoughts around lifestyle and anxiety, centered on the theme of smoking cigarettes. This repository contains a markdown-based narrative exploring personal experiences and emotions.
+A personal reflective journal repository capturing moments and thoughts around lifestyle and anxiety, centered on the theme of smoking cigarettes. This repository uses markdown files to document introspective narratives and personal experiences.
 
 ## Features
 
@@ -15,12 +15,12 @@ A personal reflective journal repository capturing moments and thoughts around l
 
 ## Getting Started
 
-Since this repository consists of markdown content, you can clone and view the files locally or use any markdown viewer.
+Since this repository consists entirely of markdown content, no build or runtime environment is required. To get started:
 
 ```bash
 git clone https://github.com/justin-napolitano/cigarettes.git
 cd cigarettes
-# Open index.md in your favorite markdown viewer or editor
+# Open index.md in your preferred markdown viewer or editor
 ```
 
 ## Project Structure
@@ -28,6 +28,7 @@ cd cigarettes
 ```
 /index.md         # Main markdown file containing the personal narrative
 /images/          # (Assumed) folder for images referenced in markdown
+README.md         # This file
 ```
 
 ## Future Work / Roadmap
