@@ -1,47 +1,35 @@
-+++
-title =  "Smoking Cigarettes"
-description = "Feeling like an old lecher while trying to be a saint"
-author = "Justin Napolitano"
-tags = ["lifestyle","anxiety"]
-images = ["images/feature-image.png"]
-date = "2024-06-28"
-+++
+---
+slug: "github-cigarettes"
+title: "cigarettes"
+repo: "justin-napolitano/cigarettes"
+githubUrl: "https://github.com/justin-napolitano/cigarettes"
+generatedAt: "2025-11-23T08:21:17.102584Z"
+source: "github-auto"
+---
 
 
-# Smoking Cigarettes
+# Smoking Cigarettes: A Personal Reflection Project
 
-I used to smoke when I went out with friends.  That was years ago. I left that behind me as one of those things I did in college.
+## Motivation
 
-## Tonight
+This project started as a deeply personal endeavor to capture moments of introspection and emotional complexity surrounding smoking cigarettes and the broader themes of lifestyle and anxiety. It’s not a traditional software project but rather a digital journal that uses markdown to document thoughts, feelings, and experiences that many might find relatable but are often left unspoken.
 
-I went out with someone I met recently at a cafe.  A friend of a friend.  We had an okay time, but I did not feel the chemistry I had hoped for.  We went to a restaurant that was okay.. I do not think we have the same palette. Later we met up with some of her friends for drinks and cigarettes. I felt out of place. Like an old man spending time with kids.  I know I am not really that old, but I felt as if I was acting up...
+## The Problem It Solves
 
-## Anxiety
+In a world where social media often paints a polished picture of life, this project provides a raw, honest glimpse into the nuanced feelings of anxiety, self-questioning, and nostalgia. It offers a space to process and share the complicated emotions tied to habits like smoking and social interactions, which can be both comforting and alienating.
 
-I felt anxious.  Not necessarily like uncomfortable in my skin... but the kind of anxious where I was questioning my actions.  Like why was I taking someone out? Like what are my intentions? What is the point? 
+## How It’s Built
 
-## Fun?
+At its core, this project is a simple markdown file (`index.md`) that serves as a narrative journal entry. The markdown format was chosen for its simplicity, portability, and readability. It allows the author to write freely without the constraints of complex publishing tools. The repository is hosted on GitHub, making it easy to version control and share.
 
-I do not know if I really had a good time.  Can I not just do things for fun? Maybe, but really what is the point? I could have spent my time cleaning my home.. or exercising.. or just doing things that really bring me joy. Instead, I did this little posturing dance.. that felt disingenuous.
+The content includes sections that chronicle a night out, feelings of anxiety, and reflections on identity and social dynamics. Images are referenced to enhance the storytelling experience, though the focus remains on the written word.
 
-## Cigarettes
+## Interesting Implementation Details
 
-And here I am smoking a cigarette in a parking lot listening to Johnny Cash... completely alone and somewhat depressed making a fool of myself.  
+- The use of front matter metadata in the markdown (`+++` block) helps organize the post with attributes like title, description, author, tags, images, and date. This structure hints at potential future use with static site generators or blogging platforms.
+- The narrative style blends candid personal storytelling with thematic exploration, making it both a journal and a piece of creative writing.
+- Tags such as `lifestyle` and `anxiety` categorize the content, suggesting a thoughtful approach to content organization.
 
-This is behavior I thought I was over.. I think I am over... but I do on these rare occasions want to prove that I still am a man -- or maybe that I still am that man.  The man of my youth.  
+## Why this project matters for my career
 
-## The Bar Scene
-
-The crowd at this bar tonight was very attractive, but also very sad. I felt like we were doing this little tango... We were all sizing up one another. I mean this is a bar so we are looking for partners, but what kind of partner can I expect to meet at a bar?
-
-## Treating my Body with Disrespect
-
-I had a drink and maybe a half.. They were okay.. but I know these are not good for my body. I also had two cigarettes. I admit that I really liked those... but I know... God I know what they do to the body. 
-
-## Rationalizing Bad Behavior
-
-I tell myself... oh it is just one cigarette. It is just one drink... and maybe that is kind of true.. but just practicing that type of behavior imprints upon the body that is okay to drink.. to smoke.. to do these ridiculous things. 
-
-## Do it again? 
-
-Nah.. simply nah. That scene is not for me. I am ready to move on. I experienced it again.. for the first time in 5 years. I had enough. I would rather go for a run.
+While this project may not showcase traditional coding skills, it highlights important qualities for any developer: authenticity, reflection, and communication. Writing candidly about personal experiences fosters empathy and emotional intelligence, which are invaluable when building user-centered software. Moreover, maintaining a personal project like this demonstrates discipline and a commitment to continuous self-expression. It also opens doors to exploring content-driven development, static site generation, and markdown-based tooling in the future. Ultimately, this project is a reminder that software development is not just about code but about telling stories and connecting with people on a human level.
