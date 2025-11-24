@@ -19,6 +19,11 @@ seoSecondaryKeywords:
   - markdown
   - git version control
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 1
+topicFamilyNotes: >-
+  The post is explicitly a personal journal for lifestyle reflections stored in markdown, matching
+  the description and example slug 'github-cigarettes' of the 'personal' topic family.
 ---
 
 # Project Overview
@@ -56,4 +61,5 @@ Traditional journaling often lacks structure and is confined to proprietary form
 # Summary
 
 This repository exemplifies a minimalist approach to personal journaling using markdown and Git. It avoids complexity, focusing on content preservation and accessibility. Future enhancements may include multimedia integration and static site generation, but the current implementation serves as a reliable, low-friction platform for personal reflection.
+
 
