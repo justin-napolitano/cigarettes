@@ -1,29 +1,39 @@
 ---
 slug: github-cigarettes
-title: Personal Journaling with Markdown and Git for Lifestyle Reflections
+title: Minimalist Personal Journaling with Markdown and Git
 repo: justin-napolitano/cigarettes
 githubUrl: https://github.com/justin-napolitano/cigarettes
 generatedAt: '2025-11-23T08:42:54.304950Z'
 source: github-auto
 summary: >-
-  Demonstration of a minimalist personal journal using markdown files and Git version control to
-  document lifestyle, anxiety, and social experience reflections.
+  Explore a simple approach to personal journaling using markdown files and Git
+  for structured, accessible reflections.
 tags:
   - markdown
   - git
   - personal-journal
   - lifestyle
   - version-control
-seoPrimaryKeyword: personal journal
+  - personal journaling
+  - version control
+  - static site generation
+  - content management
+seoPrimaryKeyword: markdown personal journal
 seoSecondaryKeywords:
-  - markdown
-  - git version control
+  - git-based journaling
+  - markdown file structure
+  - personal reflection tools
+  - version history tracking
+  - extensible journaling solutions
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 1
 topicFamilyNotes: >-
-  The post is explicitly a personal journal for lifestyle reflections stored in markdown, matching
-  the description and example slug 'github-cigarettes' of the 'personal' topic family.
+  The post is explicitly a personal journal for lifestyle reflections stored in
+  markdown, matching the description and example slug 'github-cigarettes' of the
+  'personal' topic family.
+kind: project
+id: github-cigarettes
 ---
 
 # Project Overview
