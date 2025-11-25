@@ -6,9 +6,7 @@ repo: justin-napolitano/cigarettes
 githubUrl: https://github.com/justin-napolitano/cigarettes
 generatedAt: '2025-11-24T21:34:12.157Z'
 source: github-auto
-summary: >-
-  Explore a markdown-based journal capturing personal narratives on smoking,
-  lifestyle, and anxiety.
+summary: Explore a markdown-based journal capturing personal narratives on smoking, lifestyle, and anxiety.
 tags:
   - markdown
   - personal journaling
@@ -26,8 +24,8 @@ seoSecondaryKeywords:
   - static markdown files
   - personal experiences
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -77,4 +75,5 @@ README.md         # This file
 ---
 
 *Note: This repository is primarily a personal reflective journal and does not contain executable code or software.*
+
 
